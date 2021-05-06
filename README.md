@@ -7,6 +7,7 @@ Obs: Assim que Possível reponderei as Dúvidas.
 primeiro envio:
 
 -- Começo do arquivo Index.html
+-- Erro ao Enviar Pasta Vendor
 
 
 Aviso:
