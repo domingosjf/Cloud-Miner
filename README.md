@@ -12,6 +12,10 @@ primeiro envio:
 
 -- Atualizado -- Enviado Pasta Vendor
 
+06/05/2021 -- 19:16
+
+-- Atualizado -- Arquivo index.html
+
 Aviso:
 
 Esse projeto é um Fork - Clone - Lincença MIT
