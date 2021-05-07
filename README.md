@@ -16,6 +16,17 @@ Atualizado
 -- Atualizado faq.html
 
 
+
+Atualizado 
+
+07/05/2021: 12:03
+
+-- Atualizado index.html
+-- Atualizado faq.html
+-- Atualizado basico.html
+-- Atualizado free.html
+
+
 Aviso:
 
 Esse projeto é um Fork - Clone - Lincença MIT
