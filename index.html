@@ -370,9 +370,17 @@
                     <!-- Page Heading -->
                     <div class="d-sm-flex align-items-center justify-content-between mb-4">
                         <h1 class="h3 mb-0 text-gray-800">Gerenciador</h1>
-                        <a href="#" class="d-none d-sm-inline-block btn btn-sm btn-primary shadow-sm"><i
-                                class="fas fa-download fa-sm text-white-50"></i> Enviar Deposito</a>
-                    </div>
+						   
+                        
+                   <button type="button" class="btn btn-success" data-toggle="modal" data-target="#enviarModal">
+					Enviar Deposito
+					</button>
+
+
+				   </div>
+					
+					
+				
 
                     <!-- Content Row -->
                     <div class="row">
@@ -806,6 +814,25 @@
 
 
 
+<!-- Logout Modal Enviar Deposito-->
+    <div class="modal fade" id="enviarModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel"
+        aria-hidden="true">
+        <div class="modal-dialog" role="document">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h5 class="modal-title" id="exampleModalLabel">Enviar Deposito Para o Endereço Abaixo:</h5>
+                    <button class="close" type="button" data-dismiss="modal" aria-label="Close">
+                        <span aria-hidden="true">×</span>
+                    </button>
+                </div>
+                <div class="modal-body">Envie 50 DOGES Para o Endereço = DEutEhxH5FH684sXpcDyiRPdanRKdk1heF</div>
+                <div class="modal-footer">
+                    <button class="btn btn-warning" type="button" data-dismiss="modal">Cancel</button>
+                    <a class="btn btn-danger" href="index.html">OK</a>
+                </div>
+            </div>
+        </div>
+    </div>
 
 
 
