@@ -8,13 +8,13 @@ primeiro envio:
 
 -- Começo do arquivo Index.html
 
-06/05/2021 -- 16:40
+Atualizado 
 
--- Atualizado -- Enviado Pasta Vendor
+07/05/2021: 08:45
 
-06/05/2021 -- 19:16
+-- Atualizado index.html
+-- Atualizado faq.html
 
--- Atualizado -- Arquivo index.html
 
 Aviso:
 
@@ -22,5 +22,9 @@ Esse projeto é um Fork - Clone - Lincença MIT
 Todos Créditos = bootstrat - https://startbootstrap.com/theme/sb-admin-2/
 e Agradecimentos.
 
-Serviços FreeLancer -- Bootstrap, html, css, php, javascript, banco de dados mysql
-Contato: domingosjff@protonmail.com
+Pedido do Projeto com banco de dados mysql - completo 
+contato: domingosjff@protonmail
+
+Serviços Free Lancer: Bootstrap, html, css, mysql, php, javascript
+Contato: domingosjff@protonmail
+
