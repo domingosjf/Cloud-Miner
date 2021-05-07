@@ -33,6 +33,13 @@ Esse projeto é um Fork - Clone - Lincença MIT
 Todos Créditos = bootstrat - https://startbootstrap.com/theme/sb-admin-2/
 e Agradecimentos.
 
+Dogecoin Cloud MIner - Mineração Dogecoin, Template responsivo -- Html - Bootstrap - css -- javascript
+
+Pode,Copiar, Distribuir, Vender, mas mantenha os creditos
+Forked from StartBootstrap/startbootstrap-sb-admin-2
+A free, open source, Bootstrap admin theme created by Start Bootstrap
+
+
 Pedido do Projeto com banco de dados mysql - completo 
 contato: domingosjff@protonmail
 
