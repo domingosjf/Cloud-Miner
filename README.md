@@ -36,6 +36,7 @@ e Agradecimentos.
 Dogecoin Cloud MIner - Mineração Dogecoin, Template responsivo -- Html - Bootstrap - css -- javascript
 
 Pode,Copiar, Distribuir, Vender, mas mantenha os creditos
+
 Forked from StartBootstrap/startbootstrap-sb-admin-2
 A free, open source, Bootstrap admin theme created by Start Bootstrap
 
